@@ -4,7 +4,7 @@ x-collection-name: Google Calendar
 x-complete: 1
 info:
   title: Google Calendar
-  description: manipulates-events-and-other-calendar-data
+  description: manipulates-events-and-other-calendar-data-
   contact:
     name: Google
     url: https://google.com
